@@ -46,8 +46,8 @@ export const projectsData = [
       "Tailwind CSS, and Framer Motion. It highlights my skills and projects with sleek design, smooth animations, and a " +
       "responsive user interface.",
     tags: ["React", "Tailwind", "TypeScript", "Framer Motion"],
-    github: "https://github.com/cinepulse/react",
-    demo: "https://github.com/cinepulse/react",
+    github: "https://github.com/raahul131/new-portfolio-web-app",
+    demo: "https://rahulryadav.vercel.app/",
   },
   {
     title: "Text Utils",
@@ -57,7 +57,15 @@ export const projectsData = [
       "for quick text editing and analysis.",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     github: "https://github.com/raahul131/Text-Utils",
-    demo: "https://textutils-eta.vercel.app/",
+    demo: "https://textutils7.vercel.app/",
+  },
+  {
+    title: "Mflix",
+    description: "\n" +
+      "This web app, built with React Js, Tailwind and external api for movies data. The web app is fully responsive for different devices",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    github: "https://github.com/raahul131/api_movie_app",
+    demo: "https://mflix7.vercel.app/",
   }
 ] as const
 
